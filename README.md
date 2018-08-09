@@ -13,7 +13,7 @@ Team Assignments for Day 2
 * Khushbu Patel
 * Jonathan Hackett
 
-### Team 2
+## Team 2
 * Daniel Nilson
 * Adam Haimowitz
 * Noelie Cayla
